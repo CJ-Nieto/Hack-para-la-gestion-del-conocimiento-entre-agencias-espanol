@@ -1,17 +1,17 @@
-# Global Health as Knowledge Management - VitaCollab
+# Salud Global como Gestión de Conocimiento - VitaCollab
 
-Presented by Canduri Franklin and Nieto Carlos.
+Presentado por Canduri Franklin y Nieto Carlos.
 
-## Description
-Interinstitutional collaboration is essential for effective governance and knowledge management plays a crucial role in facilitating it. This project uses public datasets to improve evidence-based decision-making among government agencies, businesses, schools, and organizations.
+## Descripción
+La colaboración interinstitucional es esencial para una gobernanza eficaz, y la gestión del conocimiento desempeña un papel crucial para facilitarla. Este proyecto utiliza conjuntos de datos públicos para mejorar la toma de decisiones basada en evidencia entre agencias gubernamentales, empresas, escuelas y organizaciones.
 
-## Resources
-- [Leading practices in collaboration across government](https://www.gao.gov/leading-practices-collaboration-across-government)
+## Recursos
+- [Prácticas líderes en colaboración con todo el gobierno](https://www.gao.gov/leading-practices-collaboration-across-government)
 - [Data.gov](https://data.gov/)
 - [Datos México](https://www.economia.gob.mx/datamexico/es)
 
-## Objective
-To design, develop, and implement an enriched knowledge base to facilitate inquiries, research, and collaborations among large organizations, collaborators, researchers, students, and businesses.
+## Objetivo
+Diseñar, desarrollar e implementar una base enriquecida de conocimientos para facilitar consultas, investigaciones y colaboraciones entre grandes organizaciones, colaboradores, investigadores, estudiantes y empresas.
 
-[View full presentation](Presentation.md) <br>
-[View detailed planning](Planning.md)
+[Ver presentación completa](Presentación.md) <br>
+[Ver planificación detallada](Planificación.md)
